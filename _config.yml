@@ -24,8 +24,8 @@ repository               : "yizhengu/yizhengu.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Yizhen Gu"
-  pronouns         : # example: "she/her"  
+  name             : "Yizhen Gu | 谷一桢"
+  pronouns         :  
   bio              : |
     Professor of Economics
 
@@ -65,7 +65,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
