@@ -13,13 +13,13 @@ I serve on the Editorial Board of the *Journal of Urban Economics* and the *Jour
 
 ---
 
-### Curriculum Vitae
-
-[Curriculum Vitae (English)](https://www.dropbox.com/scl/fi/roxemw526sui9lyounc4r/yizhen_gu_cv.pdf?dl=0&rlkey=1w32rm6gjyrnbuucl9xlh1ov8) · [中文简历](https://www.dropbox.com/scl/fi/w96vdxxqoko8an93g78ig/_.pdf?dl=0&rlkey=uqrusl1kna2crb7oyp6torbjd) 
-
 ### Research Themes
 
 Chinese Cities · Transportation · Digital Economy · Firms & Innovation
+
+### Curriculum Vitae
+
+[Curriculum Vitae (English)](https://www.dropbox.com/scl/fi/roxemw526sui9lyounc4r/yizhen_gu_cv.pdf?dl=0&rlkey=1w32rm6gjyrnbuucl9xlh1ov8) · [中文简历](https://www.dropbox.com/scl/fi/w96vdxxqoko8an93g78ig/_.pdf?dl=0&rlkey=uqrusl1kna2crb7oyp6torbjd) 
 
 ### Data
 
