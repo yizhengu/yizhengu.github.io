@@ -51,8 +51,8 @@ China's Commuting-Based Metropolitan Areas
 <style>
 .home-grid {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 240px;
-  gap: 2.25rem;
+  grid-template-columns: minmax(0, 1fr) 190px;
+  gap: 1.75rem;
   align-items: start;
 }
 
