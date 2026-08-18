@@ -9,7 +9,7 @@ redirect_from:
 
 <div class="home-grid">
 
-  <div class="home-main">
+  <div class="home-main" markdown="1">
 
 I am an Associate Professor of Economics (untenured) at Peking University HSBC Business School. My research areas include urban economics, transportation economics, and Chinese economy.
 
