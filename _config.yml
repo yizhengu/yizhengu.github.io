@@ -23,12 +23,12 @@ repository               : "yizhengu/yizhengu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Yizhen Gu | 谷一桢"
   pronouns         :  
-  bio              : 
-  location         : 
-  employer         : 
+  bio              : "Associate Professor of Economics"
+  location         : "Shenzhen, China"
+  employer         : "Peking University HSBC Business School"
   uri              : 
   email            : "yizhengu@phbs.pku.edu.cn" 
 
