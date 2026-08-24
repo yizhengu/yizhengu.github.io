@@ -44,6 +44,11 @@ China's Commuting-Based Metropolitan Areas
       <div class="home-news__date">Jul 2026</div>
       <div>New version of <a href="https://www.dropbox.com/scl/fi/e37v4hit95ai5otfwhaq4/ResidentialSegregation_July2026.pdf?rlkey=pa6ct74162vh3kggfnpelbutz&dl=0"><em>Residential Segregation in Chinese Cities</em></a></div>
     </div>
+
+    <div class="home-news__item">
+      <div class="home-news__date">Jul 2026</div>
+      <div>New version of <a href="https://www.dropbox.com/scl/fi/xfh9vcpua5uhdoy158y4n/Crowding.pdf?rlkey=jpmi1pd6be4ukl4mus9sscsk3&dl=0"><em>Crowding</em></a></div>
+    </div>
   </aside>
 
 </div>
