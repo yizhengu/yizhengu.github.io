@@ -36,6 +36,11 @@ China's Commuting-Based Metropolitan Areas
     <h3>What's New</h3>
 
     <div class="home-news__item">
+      <div class="home-news__date">Nov 23, 2026</div>
+      <div>Seminar at Lingnan University</div>
+    </div>
+    
+    <div class="home-news__item">
       <div class="home-news__date">Oct 8, 2026</div>
       <div>Seminar at Wharton Real Estate</div>
     </div>
